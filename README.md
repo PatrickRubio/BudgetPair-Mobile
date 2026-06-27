@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/budgetpair-icon.png" alt="BudgetPair app icon" width="170" />
+  <img src="assets/logo.png" alt="BudgetPair app icon" width="170" />
 
 # BudgetPair
 
