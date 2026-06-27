@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo.png" alt="BudgetPair app icon" width="170" />
+  <img src="logo.png" alt="BudgetPair app icon" width="170" />
 
 # BudgetPair
 
@@ -109,14 +109,6 @@ The architecture supports a mobile-first frontend with a separately deployed syn
 This repository contains product documentation, screenshots, branding assets, and public feature information.
 
 It does **not** contain application source code, API source code, credentials, secrets, or private infrastructure configuration.
-
-See [SOURCE_CODE.md](SOURCE_CODE.md) for additional details.
-
-## Support
-
-For product feedback or support, open an issue in this repository with a clear description of the question or problem.
-
-Do not include private financial information, invite codes, account details, credentials, or receipt images in public issues.
 
 ## Author
 
