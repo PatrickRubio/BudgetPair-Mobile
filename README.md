@@ -32,31 +32,6 @@ Instead of relying on separate spreadsheets or trying to remember who paid for w
 - Clear monthly breakdowns and remaining-balance tracking
 - Dark, mobile-first interface designed for quick everyday use
 
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center"><img src="assets/screenshots/home-dashboard.png" width="250" alt="BudgetPair home dashboard"></td>
-    <td align="center"><img src="assets/screenshots/budget-breakdown.png" width="250" alt="Budget breakdown"></td>
-    <td align="center"><img src="assets/screenshots/add-transaction.png" width="250" alt="Add transaction"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Monthly dashboard</b></td>
-    <td align="center"><b>Budget breakdown</b></td>
-    <td align="center"><b>Add transactions</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="assets/screenshots/scheduled-money.png" width="250" alt="Scheduled money"></td>
-    <td align="center"><img src="assets/screenshots/insights.png" width="250" alt="Financial insights"></td>
-    <td align="center"><img src="assets/screenshots/couples-sync.png" width="250" alt="Couples sync"></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Scheduled money</b></td>
-    <td align="center"><b>Financial insights</b></td>
-    <td align="center"><b>Partner sync</b></td>
-  </tr>
-</table>
-
 ## Main Experience
 
 ### Budget together
